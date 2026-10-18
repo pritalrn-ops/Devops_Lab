@@ -16,3 +16,5 @@ minikube service hello-k8s
 
 ![alt text](<Preetam_Image2.png>)
 ![alt text](Preetam_Image.png)
+![alt text](<Image2.png>)
+![alt text](Image.png)
